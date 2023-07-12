@@ -11,6 +11,7 @@ Project implemented using Python PyPDF2 module.
 
 Project is few lines of code, very easy implement and simple for anyone to use.
 
+Project takes page_range as input and split accordingly, which means only range of pages will created as new pdf.
 **********************************************************************
 **Result**
 
